@@ -1,6 +1,6 @@
 
 
-> #### Mr
+> #### Mr Jurin Liyun
 > #####  Kota Kinabalu,Sabah &emsp; [mrjurin.github.io][homepage]
 > `.NET`, `PHP`, `python`, `RFID`, ``
 
