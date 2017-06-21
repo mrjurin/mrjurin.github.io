@@ -5,7 +5,7 @@
 > `.NET`, `PHP`, `python`, `RFID`, ``
 
 ---
-> **"** Passionate about software architecture and engineering. I am a programming hobbyist. Currently working with open source project and as a software architect at UMS. Involved heavily on designing solution for student information system, integration and many others. Open minded about technology and willing to learn from others. I am a trainer as well for object oriented programming,. Net VB &C#,.NET mvc,xamarin studio,  ,django and laravel framework and koha library software. 
+> **"** Passionate about software architecture and engineering. I am a programming hobbyist. Currently working on open source project and as a software architect at UMS. Involved heavily on designing solution for student information system, integration and many others. Open minded about technology and willing to learn from others. I am a trainer as well for object oriented programming,. Net VB &C#,.NET mvc,xamarin studio,  ,django and laravel framework and koha library software. 
 
 
 ---
