@@ -1,4 +1,4 @@
-
+# ![avatar][]
 
 > #### Mr Jurin Liyun
 > #####  Kota Kinabalu,Sabah &emsp; [mrjurin.github.io][homepage]
@@ -39,5 +39,5 @@ Mac OS, Debian, Windows
 Xterm
 
 ---
-
+[avatar]:https://avatars2.githubusercontent.com/u/6701791?v=3&u=40f6b23bef3ae7b2a3c6632a53c317814c0942e4&s=400
 [homepage]: https://mrjurin.github.io
