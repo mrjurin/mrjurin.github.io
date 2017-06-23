@@ -25,13 +25,13 @@
 > Designing solution for users to handle concurrency, load and etc. Desiging framework for maintainability and scalability of software. 
 
 ---
-#### Training Experience</small>
+#### Training Experience
 >Trainer (
 `Database Design Best Practise`,`Microsoft Visual Studio 2005-2017`,`Object Oriented Programming C#/PHP`,`Mobile Development Using Apache Cordova & Angular Js & HTML`,`Designing API Service`)
 
 ---
 
-#### Freelance Project</small>
+#### Freelance Project
 `Library Kiosk Development`,`RFID & SIP2.0 Integration`,`KOHA Library Integration with KIOSK`
 
 ---
