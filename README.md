@@ -22,7 +22,7 @@
 ---
 #### Software Architect &emsp; <small>*Feb 2009 - current*</small>
 `.net`, `redis`, `sql server`, `mysql`, `soap`, `restful services`, `active directory`, `php`, `python`,`OOP`,`AOP`,`Git`,`Ruby On Rails 4/5`
-> Designing solution for users to handle concurrency, load and etc. Desiging framework for maintainability and scalability of software. 
+> Designing solution for users to handle concurrency, load and etc. Desiging framework for maintainability and scalability of software development. 
 > #### Project(s)
 > 1. UMS Integrated Student Information System [SMPB](http:\\smp.ums.edu.my)
 > 2. UMS Convocation system [Convo](http:\\konvo.ums.edu.my)
@@ -30,6 +30,7 @@
 > 4. Deploying Error Tracking System [UMS Sentry.IO](http:\\sentry.ums.edu.my)
 > 5. Deploying Git Server [UMS VCS](http:\\vcs.ums.edu.my)
 > 6. UMS SSO [SSO](http:\\sso.ums.edu.my)
+> 7. UMS Industrial Training System [ELI](http:\\eli.ums.edu.my)
 
 ---
 
@@ -61,5 +62,5 @@ Mac OS, Debian, Windows
 Xterm,OSX terminal,Putty
 
 ---
-[avatar]:https://avatars2.githubusercontent.com/u/6701791?v=3&u=40f6b23bef3ae7b2a3c6632a53c317814c0942e4&s=400
+[avatar]:https://avatars2.githubusercontent.com/u/6701791?v=3&u=40f6b23bef3ae7b2a3c6632a53c317814c0942e4&s=200
 [homepage]: https://mrjurin.github.io
