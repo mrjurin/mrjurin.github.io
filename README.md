@@ -2,7 +2,7 @@
 
 > #### Mr Jurin Liyun
 > #####  Kota Kinabalu,Sabah &emsp; [mrjurin.github.io][homepage]
-> `.NET`, `PHP`, `python`, `RFID`, ``
+> `.NET`, `PHP`, `Python`, `RFID`, ``
 
 ---
 > **"** Passionate about software architecture and engineering. I am a programming hobbyist. Currently working on open source project and as a software architect at UMS. Involved heavily on designing solution for student information system, integration and many others. Open minded about technology and willing to learn from others. I am a trainer as well for object oriented programming,. Net VB &C#,.NET mvc,xamarin studio,  ,django and laravel framework and koha library software. 
@@ -21,16 +21,18 @@
 
 ---
 #### Software Developer  &emsp; <small>*Feb 2009 - current*</small>
-`.net`, `redis`, `sql server`, `mysql`, `soap`, `restful services`, `active directory`, `php`, `python`,`OOP`,`AOP`,`Git`,`Ruby On Rails 4/5`
-> Designing solution for users to handle concurrency, load and etc. Desiging framework for maintainability and scalability of software development. 
+`.net`, `redis`, `sql server`, `mysql`, `soap`, `restful services`, `active directory`, `php`, `python`,`OOP`,`AOP`,`Git`,`ERP`
+> Designing solution for users to handle concurrency, load and etc. Desiging framework for maintainability and scalability. 
 > #### Project(s)
-> 1. UMS Integrated Student Information System [SMPB](http://smp.ums.edu.my)
-> 2. UMS Convocation system [Convo](http://konvo.ums.edu.my)
-> 3. UMS Microservice (Education Related System) [API UMS](http://api.ums.edu.my)
-> 4. Deploying Error Tracking System [UMS Sentry.IO](http://sentry.ums.edu.my)
-> 5. Deploying Git Server [UMS VCS](http://vcs.ums.edu.my)
-> 6. ~~UMS SSO [SSO](http://sso.ums.edu.my)~~
-> 7. UMS Industrial Training System [ELI](http://eli.ums.edu.my)
+> 1. Integrated & Intelligent Campus System [IICS](https://iics.ums.edu.my)
+> 2. E-Payment Gateway [E-Payment](https://epayment.ums.edu.my)
+> 2. UMS Integrated Student Information System [SMPB](https://smp.ums.edu.my)
+> 2. UMS Convocation system [Convo](https://konvo.ums.edu.my)
+> 3. UMS Microservice (Education Related System) [API UMS](https://api.ums.edu.my)
+> 4. Deploying Error Tracking System [UMS Sentry.IO](https://sentry.ums.edu.my)
+> 5. ~~Deploying Git Server [UMS VCS](http://vcs.ums.edu.my)~~ [Discontinued]
+> 6. ~~UMS SSO [SSO](http://sso.ums.edu.my)~~ [Discontinued]
+> 7. ~~UMS Industrial Training System [ELI](http://eli.ums.edu.my)~~
 > 8. Student Information System [FPSK](http://spu.ums.edu.my/smp)
 
 ---
@@ -41,7 +43,8 @@
 ---
 #### Training Experience
 >Trainer (
-`Database Design Best Practise`,`Microsoft Visual Studio 2005-2017`,`Object Oriented Programming C#/PHP`,`Mobile Development Using Apache Cordova & Angular Js & HTML`,`Designing API Service`)
+`Database Design Best Practise`,`Microsoft Visual Studio 2005-2017`,`Object Oriented Programming .Net C#/PHP`,`Mobile Development (Flutter)`,`Designing API Service`,
+`Agile Practitioner`) 
 
 ---
 
@@ -51,14 +54,16 @@
 ---
 ## Education
 #### Bachelor Degree In Computer Sciene (Software Engineering)  &emsp; <small>*2004 - 2008*</small>
-`C`, `PHP`, `Oracle 8g`, `Mysql`, `Java`
 
 ---
 ## Favorites
+
 #### Editor
 Visual studio code, Sublime text, Notepad++,Microsoft Visual Studio Family, PyCharm, PhpStorm And etc
+
 #### Operating System
-Mac OS, Debian, Windows
+Mac OS, Ubuntu, Windows
+
 #### Terminal
 Xterm,OSX terminal,Putty
 
