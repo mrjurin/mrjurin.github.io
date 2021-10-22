@@ -15,12 +15,12 @@
 > Help researcher to do some research for rfid implementation in car assembly line. 
 
 ---
-#### Web developer (Freelance) &emsp; <small>*July 2008 - Feb 2009*</small>
+#### Software Developer (Freelance) &emsp; <small>*July 2008 - Feb 2009*</small>
 `Javascript`, `PHP`, `.NET`, `MYSQL`, `MSSQL`, `LINUX,SVN`
 > Developing web solution for customers using available technologies
 
 ---
-#### Software Architect &emsp; <small>*Feb 2009 - current*</small>
+#### Software Developer  &emsp; <small>*Feb 2009 - current*</small>
 `.net`, `redis`, `sql server`, `mysql`, `soap`, `restful services`, `active directory`, `php`, `python`,`OOP`,`AOP`,`Git`,`Ruby On Rails 4/5`
 > Designing solution for users to handle concurrency, load and etc. Desiging framework for maintainability and scalability of software development. 
 > #### Project(s)
@@ -29,7 +29,7 @@
 > 3. UMS Microservice (Education Related System) [API UMS](http://api.ums.edu.my)
 > 4. Deploying Error Tracking System [UMS Sentry.IO](http://sentry.ums.edu.my)
 > 5. Deploying Git Server [UMS VCS](http://vcs.ums.edu.my)
-> 6. UMS SSO [SSO](http://sso.ums.edu.my)
+> 6. ~~UMS SSO [SSO](http://sso.ums.edu.my)~~
 > 7. UMS Industrial Training System [ELI](http://eli.ums.edu.my)
 > 8. Student Information System [FPSK](http://spu.ums.edu.my/smp)
 
