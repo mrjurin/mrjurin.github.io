@@ -38,7 +38,7 @@
 ---
 
 #### Freelance Project
-`Library Kiosk Development`,`RFID & SIP2.0 Integration`,`KOHA Library Integration with KIOSK`,`FAMA APP`
+`Library Kiosk Development`,`RFID & SIP2.0 Integration`,`KOHA Library Integration with KIOSK`,`FAMA APP`,`School App`,`Agriculture App`
 
 ---
 #### Training Experience
