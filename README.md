@@ -19,6 +19,10 @@
 `Javascript`, `PHP`, `.NET`, `MYSQL`, `MSSQL`, `LINUX,SVN`
 > Developing web solution for customers using available technologies
 
+#### Software Developer (Freelance) &emsp; <small>*July 2016 - Feb 2018*</small>
+`Laravel PHP`, `ILMU Library`, `RFID Integration`, `KOHA Library`, `Django Python`
+> Developing integration point for library automation, and developing convo RFID enabled application
+
 ---
 #### Software Developer  &emsp; <small>*Feb 2009 - current*</small>
 `.net`, `redis`, `sql server`, `mysql`, `soap`, `restful services`, `active directory`, `php`, `python`,`OOP`,`AOP`,`Git`,`ERP`
